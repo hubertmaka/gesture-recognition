@@ -96,10 +96,10 @@ The project "Recognition of Hand Gestures in Video Sequences Using Machine Learn
 ## **Zbiór Danych / Dataset**
 
 ### **Polska / Polish**
-Projekt wykorzystuje zbiór danych [Jester](https://20bn.com/datasets/jester), który zawiera tysiące sekwencji wideo przedstawiających różne gesty dłoni.
+Projekt wykorzystuje zbiór danych [Jester](https://www.qualcomm.com/developer/software/jester-dataset), który zawiera tysiące sekwencji wideo przedstawiających różne gesty dłoni.
 
 ### **English**
-The project uses the [Jester](https://20bn.com/datasets/jester) dataset, which contains thousands of video sequences depicting various hand gestures.
+The project uses the [Jester](https://www.qualcomm.com/developer/software/jester-dataset) dataset, which contains thousands of video sequences depicting various hand gestures.
 
 ---
 
