@@ -67,8 +67,8 @@ The project "Recognition of Hand Gestures in Video Sequences Using Machine Learn
     ```
 3. **Create and activate a virtual environment (optional):**
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    python -m venv .venv
+    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
     ```
 4. **Install the required libraries:**
     ```bash
